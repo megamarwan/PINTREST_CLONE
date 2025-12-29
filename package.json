@@ -1,0 +1,25 @@
+{
+  "name": "pintrest_clone",
+  "version": "1.0.0",
+  "description": "dd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megamarwan/PINTREST_CLONE.git"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "marwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megamarwan/PINTREST_CLONE/issues"
+  },
+  "homepage": "https://github.com/megamarwan/PINTREST_CLONE#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
